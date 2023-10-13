@@ -1,6 +1,7 @@
 # AWS Elastic Beanstalk Node.js Sample App
 
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
+This repository is for ISEC6000 Secure Dev Ops Assignment 2.
 
 ## Security
 
